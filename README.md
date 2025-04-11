@@ -20,8 +20,8 @@ pwd                   # print current working directory
 
 mkdir <dir_name>      # create a new directory   (mkdir new_folder)
 touch <file_name>     # create an empty file or update its timestamp
-cp <source> <destination>     # copy file or folder    (cp file1 file2)
-mv <source> <destination>     # move or rename file or folder    (mv oldfile newfile)
+cp <src> <dest>       # copy file or folder    (cp file1 file2)
+mv <src> <dest>       # move or rename file or folder    (mv oldfile newfile)
 rm <filename>         # delete a file
 rm -r <dir_name>      # delete directory and its contents recursively
 ```
@@ -170,8 +170,8 @@ pwd                 # print current directory
 
 mkdir <dir_name>    # make directory
 touch <file_name>   # create empty file
-cp <source> <destination>   # copy
-mv <source> <destination>   # move/rename
+cp <src> <dest>     # copy
+mv <src> <dest>     # move/rename
 rm <filename>       # delete file
 rm -r <dir_name>    # delete folder recursively
 
@@ -195,13 +195,6 @@ kill <process_id>   # kill a process
 
 ---
 
-
 Will try to Keep this repo updated as I learn more cool commands 🚀
 
 📍 Last updated: April 2025
-
-
-
-
-
-
