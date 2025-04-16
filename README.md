@@ -1,7 +1,7 @@
 # Linux_Commands
 Daily usage linux commands
 
-# 🐧 Linux Commands for Daily Data Engineering / Analysis Work
+# 🐧 Linux Commands for Daily Data Engineering / Analysis Work in the projects
 
 A practical cheatsheet-style guide for everyday Linux usage as a **Data Engineer / Analyst / Scientist**. All commands are tested on Ubuntu/WSL.
 
